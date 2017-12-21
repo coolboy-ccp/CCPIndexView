@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>A_test_data1</string>
+		<string>A_test_data2</string>
+		<string>A_test_data3</string>
+	</array>
+	<key>B</key>
+    <array>
+    <string>B_test_data1</string>
+    <string>B_test_data2</string>
+    <string>B_test_data3</string>
+    <string>B_test_data4</string>
+    <string>B_test_data5</string>
+    <string>B_test_data6</string>
+	</array>
+	<key>C</key>
+    <array>
+    <string>C_test_data1</string>
+    <string>C_test_data2</string>
+    <string>C_test_data3</string>
+	</array>
+    <key>D</key>
+    <array>
+        <string>D_test_data1</string>
+        <string>D_test_data2</string>
+        <string>D_test_data3</string>
+    </array>
+    <key>E</key>
+    <array>
+        <string>E_test_data1</string>
+        <string>E_test_data2</string>
+        <string>E_test_data3</string>
+        <string>E_test_data4</string>
+        <string>E_test_data5</string>
+        <string>E_test_data6</string>
+        </array>
+    <key>F</key>
+    <array>
+        <string>F_test_data1</string>
+        <string>F_test_data2</string>
+        <string>F_test_data3</string>
+    </array>
+    <key>G</key>
+    <array>
+        <string>G_test_data1</string>
+        <string>G_test_data2</string>
+        <string>G_test_data3</string>
+    </array>
+</dict>
+</plist>
